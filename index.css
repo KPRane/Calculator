@@ -1,0 +1,18 @@
+
+table{
+    height: 400px;
+    width: 300px;
+    background-color: #ffff;
+    
+}
+#id1{
+    width: 300px;
+    height: 100px;
+   margin-top: 5%;
+}
+input[type=text] {
+    background-color: #a4c5ce;
+    border: none;
+    height: 80px;
+    width: 280px;
+  }
